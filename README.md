@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sitaliani
-- 👀 I’m interested in sports
+- 👀 I’m interested JavaScript, HTML, CSS, React
 - 🌱 I’m currently learning to code on appAcademy
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me: instagram profile: @essea_89
